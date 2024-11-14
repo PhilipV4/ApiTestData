@@ -71,7 +71,7 @@
     {
       "id": "1",
       "titulo": "Salud mental",
-      "imagen": "https://github.com/PhilipV4/ApiTestData/blob/main/imagenes/salud_mental.png",
+      "imagen": "../imagenes/salud_mental.png",
       "descripcion": "Te invitamos a participar en nuestra charla: Cuidando la Salud Mental,un espacio donde abordaremos la importancia de cuidar nuestro bienestar emocional y aprenderemos estrategias para manejar el estrés y la ansiedad. ¡No te lo pierdas!",
       "hora": "16:00",
       "sala": "441"
@@ -79,7 +79,7 @@
     {
       "id": "2",
       "titulo": "Aprende a utilizar ChatGPT",
-      "imagen": "https://github.com/PhilipV4/ApiTestData/blob/main/imagenes/ChatGPT.png",
+      "imagen": "../imagenes/ChatGPT.png",
       "descripcion": "¡Te invitamos a nuestro evento: Aprende a utilizar ChatGPT! Descubre cómo esta poderosa herramienta de inteligencia artificial puede transformar tu forma de trabajar, estudiar y comunicarte. Aprenderás tips y trucos para sacarle el máximo provecho a ChatGPT en diversas aplicaciones.",
       "hora": "14:00",
       "sala": "440"
@@ -87,7 +87,7 @@
     {
       "id": "3",
       "titulo": "Ciberseguridad",
-      "imagen": "http://localhost:3000/imagenes/seguridad-informatica.png",
+      "imagen": "../imagenes/seguridad-informatica.png",
       "descripcion": "¡Únete a nuestro taller de Ciberseguridad! Aprende sobre las mejores prácticas para protegerte de amenazas cibernéticas, cómo asegurar tu información personal y qué hacer en caso de un ataque. Este evento es ideal para todos aquellos que deseen mejorar su conocimiento sobre la seguridad en línea.",
       "hora": "11:30",
       "sala": "346"
@@ -95,7 +95,7 @@
     {
       "id": "4",
       "titulo": "Administracion de base de datos",
-      "imagen": "http://localhost:3000/imagenes/Base-de-datos.png",
+      "imagen": "../imagenes/Base-de-datos.png",
       "descripcion": "¡Únete a nuestro taller de Ciberseguridad! Aprende sobre las mejores prácticas para protegerte de amenazas cibernéticas, cómo asegurar tu información personal y qué hacer en caso de un ataque. Este evento es ideal para todos aquellos que deseen mejorar su conocimiento sobre la seguridad en línea.",
       "hora": "11:30",
       "sala": "346"
