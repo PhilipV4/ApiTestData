@@ -1,0 +1,143 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "giancabana",
+      "password": "duoc1234",
+      "email": "giancabana@duocuc.cl",
+      "imagen": "",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "username": "felipevargas",
+      "password": "maipu1234",
+      "email": "felipevargas@duocuc.cl",
+      "imagen": "",
+      "isactive": true
+    },
+    {
+      "id": "fab6",
+      "username": "profevivi",
+      "email": "profesora@duoc.cl",
+      "password": "duoc1234",
+      "imagen": "",
+      "isactive": true
+    },
+    {
+      "id": "15cb",
+      "username": "felipe",
+      "email": "felipe@gmail.com",
+      "password": "felipe123",
+      "imagen": "",
+      "isactive": true
+    },
+    {
+      "id": "cf88",
+      "username": "felipe1",
+      "email": "felipe1@gmais",
+      "password": "felipe123",
+      "imagen": "",
+      "isactive": true
+    },
+    {
+      "id": "6d03",
+      "username": "felipetest",
+      "email": "felipetest@gmail.com",
+      "password": "felipe1234",
+      "imagen": "",
+      "isactive": true
+    },
+    {
+      "id": "fd65",
+      "username": "felipe2",
+      "email": "felipe@gmail.com",
+      "rut": "20.943.303-6",
+      "password": "felipe123",
+      "imagen": "",
+      "isactive": true
+    },
+    {
+      "id": "6ec9",
+      "username": "felipev",
+      "email": "aaa@gmail.com",
+      "rut": "20.943.303-6",
+      "password": "felipe123",
+      "imagen": "",
+      "isactive": true
+    }
+  ],
+  "eventos": [
+    {
+      "id": "1",
+      "titulo": "Salud mental",
+      "imagen": "http://localhost:3000/imagenes/salud_mental.png",
+      "descripcion": "Te invitamos a participar en nuestra charla: Cuidando la Salud Mental,un espacio donde abordaremos la importancia de cuidar nuestro bienestar emocional y aprenderemos estrategias para manejar el estrés y la ansiedad. ¡No te lo pierdas!",
+      "hora": "16:00",
+      "sala": "441"
+    },
+    {
+      "id": "2",
+      "titulo": "Aprende a utilizar ChatGPT",
+      "imagen": "http://localhost:3000/imagenes/ChatGPT.png",
+      "descripcion": "¡Te invitamos a nuestro evento: Aprende a utilizar ChatGPT! Descubre cómo esta poderosa herramienta de inteligencia artificial puede transformar tu forma de trabajar, estudiar y comunicarte. Aprenderás tips y trucos para sacarle el máximo provecho a ChatGPT en diversas aplicaciones.",
+      "hora": "14:00",
+      "sala": "440"
+    },
+    {
+      "id": "3",
+      "titulo": "Ciberseguridad",
+      "imagen": "http://localhost:3000/imagenes/seguridad-informatica.png",
+      "descripcion": "¡Únete a nuestro taller de Ciberseguridad! Aprende sobre las mejores prácticas para protegerte de amenazas cibernéticas, cómo asegurar tu información personal y qué hacer en caso de un ataque. Este evento es ideal para todos aquellos que deseen mejorar su conocimiento sobre la seguridad en línea.",
+      "hora": "11:30",
+      "sala": "346"
+    },
+    {
+      "id": "4",
+      "titulo": "Administracion de base de datos",
+      "imagen": "http://localhost:3000/imagenes/Base-de-datos.png",
+      "descripcion": "¡Únete a nuestro taller de Ciberseguridad! Aprende sobre las mejores prácticas para protegerte de amenazas cibernéticas, cómo asegurar tu información personal y qué hacer en caso de un ataque. Este evento es ideal para todos aquellos que deseen mejorar su conocimiento sobre la seguridad en línea.",
+      "hora": "11:30",
+      "sala": "346"
+    }
+  ],
+  "inscripciones": [
+    {
+      "id": "0253",
+      "userId": "2",
+      "eventoId": "4"
+    },
+    {
+      "id": "c8eb",
+      "userId": "2",
+      "eventoId": "3"
+    },
+    {
+      "id": "6920",
+      "userId": "2",
+      "eventoId": "1"
+    },
+    {
+      "id": "d42b",
+      "userId": "6ec9",
+      "eventoId": "1"
+    }
+  ],
+  "comentarios": [
+    {
+      "id": "30f8"
+    },
+    {
+      "id": "f621",
+      "userId": "2",
+      "eventoId": "2",
+      "comentario": "dkajshdkjasdhjkasdhkasjhd"
+    },
+    {
+      "id": "571c",
+      "userId": "2",
+      "eventoId": "1",
+      "comentario": "lhkjhkjhjkh"
+    }
+  ]
+}
