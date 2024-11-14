@@ -71,7 +71,7 @@
     {
       "id": "1",
       "titulo": "Salud mental",
-      "imagen": "http://localhost:3000/imagenes/salud_mental.png",
+      "imagen": "https://github.com/PhilipV4/ApiTestData/blob/main/imagenes/salud_mental.png",
       "descripcion": "Te invitamos a participar en nuestra charla: Cuidando la Salud Mental,un espacio donde abordaremos la importancia de cuidar nuestro bienestar emocional y aprenderemos estrategias para manejar el estrés y la ansiedad. ¡No te lo pierdas!",
       "hora": "16:00",
       "sala": "441"
