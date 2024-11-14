@@ -79,7 +79,7 @@
     {
       "id": "2",
       "titulo": "Aprende a utilizar ChatGPT",
-      "imagen": "http://localhost:3000/imagenes/ChatGPT.png",
+      "imagen": "https://github.com/PhilipV4/ApiTestData/blob/main/imagenes/ChatGPT.png",
       "descripcion": "¡Te invitamos a nuestro evento: Aprende a utilizar ChatGPT! Descubre cómo esta poderosa herramienta de inteligencia artificial puede transformar tu forma de trabajar, estudiar y comunicarte. Aprenderás tips y trucos para sacarle el máximo provecho a ChatGPT en diversas aplicaciones.",
       "hora": "14:00",
       "sala": "440"
