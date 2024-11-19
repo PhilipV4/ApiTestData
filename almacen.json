@@ -95,7 +95,7 @@
     {
       "id": "4",
       "titulo": "Administracion de base de datos",
-      "imagen": "../imagenes/Base-de-datos.png",
+      "imagen": "https://apitestdata-g41k.onrender.com/imagenes/Base-de-datos.png",
       "descripcion": "¡Únete a nuestro taller de Ciberseguridad! Aprende sobre las mejores prácticas para protegerte de amenazas cibernéticas, cómo asegurar tu información personal y qué hacer en caso de un ataque. Este evento es ideal para todos aquellos que deseen mejorar su conocimiento sobre la seguridad en línea.",
       "hora": "11:30",
       "sala": "346"
