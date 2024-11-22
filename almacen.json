@@ -139,8 +139,8 @@
       "eventoId": "1",
       "comentario": "lhkjhkjhjkh"
     }
-  ]
-    "qr": [
+  ],
+  "qr": [
     {
       "id": "73ec",
       "username": "giancabana",
@@ -159,5 +159,5 @@
       "rut": "undefined",
       "email": ""
     }
-  ],
+  ]
 }
