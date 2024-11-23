@@ -159,5 +159,14 @@
       "rut": "undefined",
       "email": ""
     }
+  ],
+  "scannedQrs": [
+    {
+    "id":"1" , 
+    "gestorId":"" , 
+    "eventoId":"" , 
+    "content":"" ,
+    "dateScanned":"" }
+    
   ]
 }
