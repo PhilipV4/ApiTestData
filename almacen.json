@@ -6,7 +6,13 @@
       "password": "duoc1234",
       "email": "giancabana@duocuc.cl",
       "imagen": "",
-      "isactive": true
+      "isactive": true,
+      "notificaciones":[
+        {
+          "mensaje":
+          "fecha"
+        }
+      ]
     },
     {
       "id": "2",
