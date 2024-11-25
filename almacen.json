@@ -1,18 +1,18 @@
 {
   "usuarios": [
-    {
+{
       "id": "1",
       "username": "giancabana",
       "password": "duoc1234",
       "email": "giancabana@duocuc.cl",
       "imagen": "",
       "isactive": true,
-      "notificaciones":[
+      "notificaciones": [
         {
-          "mensaje":,
-          "fecha":
+          "mensaje": "",
+          "fecha": ""
         }
-      ]
+      ],
     },
     {
       "id": "2",
